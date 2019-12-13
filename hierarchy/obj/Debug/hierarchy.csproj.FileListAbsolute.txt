@@ -1,0 +1,40 @@
+F:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.csprojAssemblyReference.cache
+F:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.Form1.resources
+F:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.Properties.Resources.resources
+F:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.csproj.GenerateResource.cache
+F:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.csproj.CoreCompileInputs.cache
+E:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.csprojAssemblyReference.cache
+E:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.Form1.resources
+E:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.Properties.Resources.resources
+E:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.csproj.GenerateResource.cache
+E:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.csproj.CoreCompileInputs.cache
+E:\ООП\3 иерархия\hierarchy\hierarchy\bin\Debug\hierarchy.exe.config
+E:\ООП\3 иерархия\hierarchy\hierarchy\bin\Debug\hierarchy.exe
+E:\ООП\3 иерархия\hierarchy\hierarchy\bin\Debug\hierarchy.pdb
+E:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.exe
+E:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.pdb
+F:\ООП\3 иерархия\hierarchy\hierarchy\bin\Debug\hierarchy.exe.config
+F:\ООП\3 иерархия\hierarchy\hierarchy\bin\Debug\hierarchy.exe
+F:\ООП\3 иерархия\hierarchy\hierarchy\bin\Debug\hierarchy.pdb
+F:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.exe
+F:\ООП\3 иерархия\hierarchy\hierarchy\obj\Debug\hierarchy.pdb
+E:\ООП\6\hierarchy\hierarchy\bin\Debug\hierarchy.exe.config
+E:\ООП\6\hierarchy\hierarchy\bin\Debug\hierarchy.exe
+E:\ООП\6\hierarchy\hierarchy\bin\Debug\hierarchy.pdb
+E:\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.csprojAssemblyReference.cache
+E:\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.Form1.resources
+E:\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.Properties.Resources.resources
+E:\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.csproj.GenerateResource.cache
+E:\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.csproj.CoreCompileInputs.cache
+E:\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.exe
+E:\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.pdb
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\bin\Debug\hierarchy.exe.config
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\bin\Debug\hierarchy.exe
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\bin\Debug\hierarchy.pdb
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.csprojAssemblyReference.cache
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.Form1.resources
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.Properties.Resources.resources
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.csproj.GenerateResource.cache
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.csproj.CoreCompileInputs.cache
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.exe
+D:\Documents\флэшка\ООП\6\hierarchy\hierarchy\obj\Debug\hierarchy.pdb
